@@ -1,0 +1,17 @@
+commit 815add7622b9d97a71099526a4899c15dac127ce (HEAD -> main, branchTest)
+Author: SpicyIRamen <70509458+SpicyIRamen@users.noreply.github.com>
+Date:   Sun Nov 8 20:57:18 2020 +0100
+
+    added new textfile
+
+commit 706c2a8deb116c5956577968fbb66d57b8754c38 (origin/main)
+Author: SpicyIRamen <70509458+SpicyIRamen@users.noreply.github.com>
+Date:   Sun Nov 8 20:42:47 2020 +0100
+
+    third commit
+
+commit aa0aa0db2111ed45cc52be6ac7df34a2b78cc78f
+Author: SpicyIRamen <70509458+SpicyIRamen@users.noreply.github.com>
+Date:   Sun Nov 8 19:53:11 2020 +0100
+
+    first commit
